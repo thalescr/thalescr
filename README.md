@@ -1,6 +1,6 @@
 ### Hi there, I'm Thales 👋
 
-I'm a web developer currently working with Django and React.
+I'm a software developer currently working with Django and React.
 
 <div>
   <a href="https://github.com/thalescr">
